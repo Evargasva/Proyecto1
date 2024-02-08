@@ -1,0 +1,27 @@
+body{
+    background-color: gray;
+}
+h1{
+    text-align: center;
+}
+ul{
+    padding: auto;
+    width: 100%;
+    font-style: italic;
+    font-size: medium;
+    border: 0px;
+    list-style-type: none;
+
+}
+ul li{
+    display:inline-flex;
+    width: 30%;
+    padding: 10px;
+    margin-left: 0px;
+    margin-right: 10px;
+    border-style: solid;
+    border-color: red;
+}
+footer{
+    color: blue;
+}
